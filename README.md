@@ -14,13 +14,13 @@ LangChain Chat App is a real-time chat application that supports multiple langua
 To install and run the application:
 
 1. Clone the repository to your local machine.
-2. Install dependencies by running `npm install` in the `React` directory and `pip install -r requirements.txt` in the `Python` directory.
+2. Install dependencies by running `npm install` in the `client` directory and `pip install -r requirements.txt` in the `server` directory.
 3. Create a `.env` file in the `server` directory and add the following environment variables:
    - `SECRET_KEY`: secret key for Flask app
    - `DATABASE_URI`: URI for SQLite database
    - `LANGCHAIN_API_KEY`: API key for LangChain API
-4. Start the server by running `python backend.py` in the `Python` directory.
-5. Start the client by running `npm start` in the `React` directory.
+4. Start the server by running `python backend.py` in the `server` directory.
+5. Start the client by running `npm start` in the `client` directory.
 
 ## Contributing
 
