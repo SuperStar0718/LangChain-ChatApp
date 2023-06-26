@@ -1,0 +1,1 @@
+pip install langchain openai psycopg2 flask flask_cors
