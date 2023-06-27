@@ -1,5 +1,5 @@
 # LangChain Chat App
-
+<img src="Screenshot_1.jpg" alt="dashboard" border="0">
 LangChain Chat App is a real-time chat application that supports multiple languages through the integration of LangChain API. The front-end is built using React, while the back-end is built using Python and SQLite is used as the database.
 
 ## Features
